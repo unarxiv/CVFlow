@@ -1,3 +1,4 @@
-* [Overview](guide/overview)
-* [Features](guide/features)
-* [Installation](guide/installatiion.md)
+* [Overview](guide/overview.md)
+* [News](guide/news.md)
+* [Features](guide/features.md)
+* [Installation](guide/installation.md)
