@@ -11,4 +11,4 @@
 [GitHub](https://github.com/unarxiv/cvflow/)
 [Get Started](#quick-start)
 
-![](assets/bg2.jpg)
+![](assets/bg2-min.jpg)
