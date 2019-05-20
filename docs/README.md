@@ -1,3 +1,3 @@
-# Headline
+# Open Workflow for Computer Vision
 
-> An awesome project.
+In recent years, the multimedia community has witnessed an emerging usage of deep learning in computer vision, such as image caption, object detection, instance segmentation and etc, and many companies are adopting deep learning into their commercial products. Developing and Deploying a fast and reliable deep learning system is complex and involves labour-intensive works, like image annotation, data and models versioning. To facilitate such a process, we proposed CVFlow, which is a suite of versatile computer vision libraries and toolkits for handling computer vision tasks, including intelligent annotation toolkit, deep learning package manager, models sharing platform and computer vision serving program. CVFlow was released on GitHub in 2018, Since then 2018 the proposed workflow has been adopted by online computer vision platforms, including training and annotating.
