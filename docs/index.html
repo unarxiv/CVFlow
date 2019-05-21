@@ -8,8 +8,8 @@
   <meta name="description" content="Description">
   <meta name="viewport"
     content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
-  <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4.9.4/lib/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1.5.0/dist/gitalk.css">
 </head>
 
 <body>
@@ -19,16 +19,35 @@
       name: 'CVFlow',
       repo: 'unarxiv/cvflow',
       coverpage: true,
-      loadSidebar: true
+      loadSidebar: true,
+      search: [
+        '/',            
+        '/guide/',       
+      ],
+      search: {
+        maxAge: 86400000, 
+        paths: 'auto',
+        placeholder: 'Type to search',
+        placeholder: {
+          '/': 'Type to search'
+        },
+        noData: 'No Results!',
+        noData: {
+          '/': 'No Results'
+        },
+        depth: 2
+      }
     }
     if (typeof navigator.serviceWorker !== 'undefined') {
       navigator.serviceWorker.register('sw.js')
     }
   </script>
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
-  <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
-  <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4.9.4/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/gitalk@1.5.0/dist/gitalk.min.js"></script>
+  <!-- Plugins -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination@2.4.0/dist/docsify-pagination.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4.9.4/lib/plugins/gitalk.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4.9.4/lib/plugins/search.js"></script>
   <script>
     const gitalk = new Gitalk({
       clientID: '96982236580c8594a520',
