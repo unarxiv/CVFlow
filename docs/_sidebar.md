@@ -1,4 +1,6 @@
 * [Overview](guide/overview.md)
 * [News](guide/news.md)
 * [Features](guide/features.md)
+* [Contribution](guide/contribution.md)
 * [Installation](guide/installation.md)
+* [Reviewer](guide/reviewer.md)
