@@ -1,4 +1,6 @@
 * [Overview](guide/overview.md)
 * [News](guide/news.md)
 * [Features](guide/features.md)
+* [Getting Started](guide/getting-started.md)
 * [Installation](guide/installation.md)
+* [Contributing](guide/contributing.md)

@@ -9,6 +9,6 @@
 * Model Markets for Services and Packages
 
 [GitHub](https://github.com/unarxiv/cvflow/)
-[Get Started](#quick-start)
+[Get Started](/guide/getting-started)
 
 ![](assets/bg2-min.jpg)
