@@ -3,4 +3,5 @@
 * [Features](guide/features.md)
 * [Getting Started](guide/getting-started.md)
 * [Installation](guide/installation.md)
+* [Reviewer](guide/reviewer.md)
 * [Contributing](guide/contributing.md)
