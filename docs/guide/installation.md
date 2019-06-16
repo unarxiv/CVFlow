@@ -80,3 +80,5 @@ cd cvpm/core/cmd
 ```
 
 it will build cvpm for Windows, Mac OS X, Linux and FreeBSD and stores the binary under cvpm/core/cvpm/dist folder.
+
+You can also set ```GOARCH``` and ```GOOS``` manually to build CVPM for different platforms, for more details, please refer to [Go Cross Compile](https://golangcookbook.com/chapters/running/cross-compiling/)
