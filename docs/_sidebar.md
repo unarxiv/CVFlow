@@ -1,23 +1,23 @@
 - Getting Started
 
-    - [Overview](guide/overview.md)
-    - [News](guide/news.md)
-    - [Features](guide/features.md)
-    - [Installation](guide/installation.md)
-    - [Quick Start](guide/quick-start.md)
+  - [Overview](guide/overview.md)
+  - [News](guide/news.md)
+  - [Features](guide/features.md)
+  - [Installation](guide/installation.md)
+  - [Quick Start](guide/quick-start.md)
 
 - CVPM
-    - [Install Packages](guide/cvpm/install-packages.md)
-    - [Publish Packages](guide/cvpm/publish-packages.md)
-    - [Web UI](guide/cvpm/webui-usage.md)
-    - [API Reference](guide/cvpm/api-reference.md)
+  - [Install Packages](guide/cvpm/install-packages.md)
+  - [Publish Packages](guide/cvpm/publish-packages.md)
+  - [Web UI](guide/cvpm/webui-usage.md)
+  - [API Reference](guide/cvpm/api-reference.md)
 
 - Contribution
 
-    - [Code of Conduct](guide/contribution/code-of-conduct.md)
-    - [Contributing](guide/contribution/contributing.md)
+  - [Code of Conduct](guide/contribution/code-of-conduct.md)
+  - [Contributing](guide/contribution/contributing.md)
 
 - Misc
 
-    - [Reviewer](guide/misc/reviewer.md)
-    - [License](guide/misc/license.md)
+  - [Reviewer](guide/misc/reviewer.md)
+  - [License](guide/misc/license.md)

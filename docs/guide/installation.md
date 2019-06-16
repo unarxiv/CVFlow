@@ -1,8 +1,8 @@
 # Installation
 
-### Install from Package Manager
+## Install from Package Manager
 
-### Download Binary
+## Download Binary
 
 We periodically release CVFlow for different platforms, including Linux, Mac and experimental Windows. You can download the release file from our GitHub Repositories.
 
@@ -10,17 +10,17 @@ We periodically release CVFlow for different platforms, including Linux, Mac and
 
 [IAE Releases](https://github.com/unarxiv/iae/releases)
 
-### Build from Source
+## Build from Source
 
 If you are looking for cutting edge features, we would recommend you build cvpm and IAE from source.
 
-#### Prepare Build Environment
+### Prepare Build Environment
 
 To build IAE from source, you will need at least node v10.0+. We only test the build process with latest node. For installation instructions, please refer to [NodeJS Downloads](https://nodejs.org/en/download/)
 
 To build CVPM from source, you will need at least Golang compiler at least v1.12. The build status can be viewed at [Travis](https://travis-ci.org/unarxiv/CVPM). For installation of Golang, please refer to [Go Downloads](https://golang.org/dl/)
 
-#### Prepare Source Code
+### Prepare Source Code
 
 ```shell
 # download IAE code to ./IAE
@@ -29,7 +29,7 @@ git clone https://github.com/unarxiv/IAE.git
 git clone https://github.com/unarxiv/cvpm.git 
 ```
 
-#### Install Dependencies
+### Install Dependencies
 
 To install dependencies of IAE, please follow the instructions below:
 
@@ -43,7 +43,7 @@ npm install
 
 As for CVPM, when building it for the first time, the process will automatically install all dependencies.
 
-#### Build
+### Build
 
 To serve IAE in development mode,
 

@@ -13,8 +13,7 @@ If you found a security bug, please do not post it in issues or any other public
 ## Road Map
 
 - Enhancement Proposals
-    
-    - gRPC endpoints
+  - gRPC endpoints
 
 ## Getting Started
 

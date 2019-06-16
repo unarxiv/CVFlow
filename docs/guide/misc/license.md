@@ -31,3 +31,11 @@ SOFTWARE.
 Our patents portfolio is intended to protect our intellctual property, keep the community developing smoothly and encourage more open source innovations.
 
 For open source software, approved non-profit projects and small start-ups, we would love to waive their patent licensing fees. Please contact us for more detail.
+
+## Usage of Logo, name and other assets
+
+If you are going to use our logo, product name and other assets in your **For Profit** products, please let us know it in advance. 
+
+You may only use the logo, name, marks or any other assets in a manner designed to maintain the highest standard, quality and reputation that is associated with our products and you will not use the assets to disparage us or our products or services.
+
+You will not display the name, logo, marks or any other assets in any manner that implies that you are related to, affiliated with, sponsored or endorsed by us (except you are actually sponsored by us through our Open Programme or by agreement), or in a manner that could reasonably be interpreted to suggest that your content, web site, product or service, has been authored or edited by us, or represents our views or opinions.
