@@ -3,8 +3,8 @@
   - [Overview](guide/overview.md)
   - [News](guide/news.md)
   - [Features](guide/features.md)
-  - [Installation](guide/installation.md)
   - [Quick Start](guide/quick-start.md)
+  - [Installation](guide/installation.md)
 
 - CVPM
   - [Install Packages](guide/cvpm/install-packages.md)
