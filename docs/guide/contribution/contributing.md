@@ -14,6 +14,8 @@ If you found a security bug, please do not post it in issues or any other public
 
 - Enhancement Proposals
   - gRPC endpoints
+  - Training Phase Support
+  - Plugins
 
 ## Getting Started
 

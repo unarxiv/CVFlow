@@ -17,6 +17,9 @@
   - [Code of Conduct](guide/contribution/code-of-conduct.md)
   - [Contributing](guide/contribution/contributing.md)
 
+- Specs
+  - [Data Formats](guide/specs/data-format.md)
+
 - Misc
 
   - [Reviewer](guide/misc/reviewer.md)

@@ -14,7 +14,7 @@ CVFlow is impossible to be made without the help from the community. We would lo
 
 * [AICAMP.CO.,LTD](https://autoai.org) for becoming the umbrella company of CVFlow (and many other open software).
 * [Shenzhen University](https://www.szu.edu.cn) for providing lots of general help.
-* [Oregon State University Open Source Lab](https://osuosl.org/) for hosting open source and public models.
+* [Oregon State University Open Source Lab](https://osuosl.org/) for hosting open source and some public models.
 * [Netlify](https://www.netlify.com/) for hosting our static websites.
 * [Amazon Web Services](https://aws.amazon.com) for providing general web services.
 * [DiDi Cloud](https://www.didiyun.com/?channel=14204) for providing cloud services.
