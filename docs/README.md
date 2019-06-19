@@ -26,6 +26,7 @@ This is the meta documentation for the CVFlow projects, including usage of CVFlo
 CVFlow is impossible to be made without the help from the community. We would love to express our sincere gratitude to the following organizations and individuals for their kind support:
 
 * [AICAMP.CO.,LTD](https://autoai.org) for becoming the umbrella company of CVFlow (and many other open software).
+* [Cyberport.hk](https://cyberport.hk) for providing incubation programme for our projects.
 * [Shenzhen University](https://www.szu.edu.cn) for providing lots of general help.
 * [Oregon State University Open Source Lab](https://osuosl.org/) for hosting open source and some public models.
 * [Netlify](https://www.netlify.com/) for hosting our static websites.

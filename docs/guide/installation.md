@@ -22,7 +22,7 @@ To build CVPM from source, you will need at least Golang compiler at least v1.12
 
 ### Prepare Source Code
 
-```bash
+``` bash
 # download IAE code to ./IAE
 git clone https://github.com/unarxiv/IAE.git  
 # download cvpm code to ./cvpm
