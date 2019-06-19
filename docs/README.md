@@ -8,6 +8,19 @@ This is the meta documentation for the CVFlow projects, including usage of CVFlo
 * IAE [Code](https://github.com/unarxiv/iae)
 * CVTron [code](https://github.com/unarxiv/cvtron)
 
+## Project Status
+
+### CVPM
+
+[![Go Report Card](https://goreportcard.com/badge/github.com/unarxiv/cvpm)](https://goreportcard.com/report/github.com/unarxiv/cvpm)
+[![Build Status](https://travis-ci.org/unarxiv/CVPM.svg?branch=master)](https://travis-ci.org/unarxiv/CVPM)
+[![GitHub issues](https://img.shields.io/github/issues/unarxiv/cvpm.svg?style=flat-square)](https://github.com/unarxiv/cvpm/issues)
+[![GitHub license](https://img.shields.io/github/license/unarxiv/cvpm.svg?style=flat-square)](https://github.com/unarxiv/CVPM/blob/master/LICENSE)
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/unarxiv/cvpm)
+[![Maintainability](https://api.codeclimate.com/v1/badges/d66183d5e7ed7d8f0ca2/maintainability)](https://codeclimate.com/github/unarxiv/CVPM/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/d66183d5e7ed7d8f0ca2/test_coverage)](https://codeclimate.com/github/unarxiv/CVPM/test_coverage)
+[![Build Status](https://dev.azure.com/2013150080/CVPM/_apis/build/status/unarxiv.CVPM)](https://dev.azure.com/2013150080/CVPM/_build/latest?definitionId=1)
+
 ## Credit
 
 CVFlow is impossible to be made without the help from the community. We would love to express our sincere gratitude to the following organizations and individuals for their kind support:

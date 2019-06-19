@@ -4,7 +4,7 @@ In recent years, the multimedia community has witnessed an emerging usage of dee
 
 This is the meta documentation for the CVFlow projects, including usage of CVFlow and its modules, lawsuits, news and other useful information. We provide developers guide in separate repositories and if you are interested in contributing to CVFlow, you are warmly welcomed to visit their documentations and code repositories.
 
-* CVPM [Code](https://github.com/unarxiv/cvpm) [Documentation](https://cvpm.autoai.org)
+* CVPM [Code](https://github.com/unarxiv/cvpm)
 * IAE [Code](https://github.com/unarxiv/iae)
 * CVTron [code](https://github.com/unarxiv/cvtron)
 

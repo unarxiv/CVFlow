@@ -37,7 +37,7 @@ class SampleSolver(Solver):
         self.set_ready()
     def infer(self, image_file, config):
         # Use your own load_image method, or from cvpm.utility import load_image_file
-        image = load_image(image_file) 
+        image = load_image(image_file)
         result = self.classifier(image)
         return result
 ```
