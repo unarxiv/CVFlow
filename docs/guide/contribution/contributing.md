@@ -29,6 +29,19 @@ Thanks to Cyberport.hk and Amazon Web Services, we have set up several open prog
 
 - Enterprise Startup Programme. If you are an eligible small to medium size company and would like to adopt computer vision into your product, we could provide you with free one-to-one consulting service.
 
-## Job Vacancy
+## Job Vacancies
 
-We do not have any job vacancies right now.
+We are hiring 2-3 student interns as part-time developers to our project. Requirements are as below:
+
+- You must be a student located in Hong Kong or Shenzhen China.
+- You are now a student enrolled in a BS/MS programme in Computer Science, in Shenzhen University.
+- You have a huge passion and ambition in developing stable, robust software.
+
+Preferably:
+
+- You could work independently and be interested in engaging actively with an industry partner.
+- You have a solid knowledge of machine learning as well as strong mathematical and programming skills.
+
+You are also welcome to apply if you are a graduate and permanent resident from Hong Kong. Women are in particular welcome to apply.
+
+If you are interested, please reach us at [Gitter](https://gitter.im/Unarxiv/cvpm).
