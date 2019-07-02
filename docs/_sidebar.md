@@ -21,6 +21,6 @@
   - [Data Formats](guide/specs/data-format.md)
 
 - Misc
-
+  - [Hosted Platform](guide/misc/hosted.md)
   - [Reviewer](guide/misc/reviewer.md)
   - [License](guide/misc/license.md)

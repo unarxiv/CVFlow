@@ -36,6 +36,8 @@ For open source software, approved non-profit projects and small start-ups, we w
 
 If you are in the public sectors of Hong Kong, China, EU or Switzerland, you are hereby authorized to use our projects freely. Besides, as a project incubated by the research and SME funds from Hong Kong and mainland China, we would love to provide free consulting services for all public organizations, including but not limited to governments, non-profit organizations and universities.
 
+Note that the "free-of-charge" promise is only limited to our products and services, including our platform and public models. However, since there are some private models that belong to other third parties, we cannot provide public sectors with these products, algorithms and models.
+
 ## Usage of Logo, name and other assets
 
 If you are going to use our logo, product name and other assets in your **For Profit** products, please let us know it in advance. 
