@@ -1,4 +1,4 @@
-![logo](assets/logo.png)
+![logo](assets/images/logo.png)
 
 # Computer Vision Workflow <small>1.0.0</small>
 
@@ -11,4 +11,4 @@
 [GitHub](https://github.com/unarxiv/cvflow/)
 [Get Started](/guide/quick-start)
 
-![](assets/bg2-min.jpg)
+![](assets/images/bg2-min.jpg)
